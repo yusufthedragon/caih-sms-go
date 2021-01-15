@@ -1,4 +1,4 @@
-package sms
+package caihsms
 
 // Config struct for API Call configuration.
 type Config struct {
